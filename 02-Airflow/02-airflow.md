@@ -87,3 +87,5 @@ docker compose up airflow-init
 ```bash
 docker compose up
 ```
+
+https://stackoverflow.com/questions/55274601/airflow-valueerror-unable-to-configure-handler-processor-wasb-logger
