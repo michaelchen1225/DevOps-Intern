@@ -1,3 +1,0 @@
-# Container network model
-
-##
